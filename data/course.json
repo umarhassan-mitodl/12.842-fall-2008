@@ -1,0 +1,66 @@
+{
+  "term": "Fall",
+  "year": "2008",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Climate Studies"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Planetary Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Atmospheric Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geochemistry"
+    ]
+  ],
+  "legacy_uid": "0d0732dd-83b4-e572-4e6f-6479537b8e85",
+  "instructors": {
+    "content": [
+      "1aee9573-c646-7512-7f8a-11b72f04879e",
+      "62ce5249-fee9-d425-0d77-765502ec1f24",
+      "d611afa5-56fb-9311-806f-323a785e0dcc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ed67b7a6-382e-5eb9-1cf2-ab53b29de117",
+    "website": "12-842-climate-physics-and-chemistry-fall-2008"
+  },
+  "course_title": "Climate Physics and Chemistry",
+  "course_description": "This course introduces students to climate studies, including beginnings of the solar system, time scales, and climate in human history. It is offered to both undergraduate and graduate students with different requirements.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "12.301",
+  "primary_course_number": "12.842",
+  "course_image_thumbnail": {
+    "content": "6f67f927-343a-52da-157f-6060c1ac0095",
+    "website": "12-842-climate-physics-and-chemistry-fall-2008"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "267ad59b-1135-4240-985b-9eac47d3ec6b",
+  "site_short_id": "12.842-fall-2008",
+  "site_url_path": "courses/12-842-climate-physics-and-chemistry-fall-2008",
+  "title": "Course Metadata"
+}
