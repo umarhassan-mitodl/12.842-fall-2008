@@ -5,6 +5,8 @@ description: "Lecture presentation with an overview of how the ocean in\uFB02uen
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/07654d5637b932eee34a03b3b3de5c9e_part6.pdf
 file_size: 1753515
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

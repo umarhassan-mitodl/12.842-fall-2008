@@ -4,6 +4,8 @@ description: Problem set on the ocean carbon system.
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/d71ce4e0ec12430b71dd727017071a48_ps3.pdf
 file_size: 35257
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

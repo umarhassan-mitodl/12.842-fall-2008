@@ -5,6 +5,8 @@ description: Lecture presentation on paleoclimate, climate on geologic time scal
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/a9608176ace884a49b2b15a940301aad_part1_lec6.pdf
 file_size: 799106
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

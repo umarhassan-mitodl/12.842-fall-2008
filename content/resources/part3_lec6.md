@@ -6,6 +6,8 @@ description: Lecture presentation on what controls the temperature gradient in m
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/d6a2556fa8dce2918edffe5ea50c698e_part3_lec6.pdf
 file_size: 1031608
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

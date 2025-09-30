@@ -5,6 +5,8 @@ description: Lecture presentation on Earth's climate history, the Faint Young Su
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/81562443eb02057a0068b392b70b2226_part1_lec4.pdf
 file_size: 731882
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

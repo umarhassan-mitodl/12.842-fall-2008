@@ -7,6 +7,8 @@ description: Lecture presentation on moist convection, water variables, saturati
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/ecd9c781ac9e78c1f4dd5eabf4f3ae98_part3_lec3.pdf
 file_size: 1440103
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,8 @@ description: Lecture presentation on atmospheric chemistry, green house gases, m
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/7631ff8846db52c4d7461be634870fb6_part3_2.pdf
 file_size: 550043
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

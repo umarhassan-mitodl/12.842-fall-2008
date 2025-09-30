@@ -9,4 +9,4 @@ ocw_type: CourseSection
 title: Related Resources
 uid: 57415c10-141a-ef55-5dd1-f7e871db4e50
 ---
-Prof. Kerry Emanuel and Prof. Ernest J. Moniz gave a lecture about a sustainable energy future for the world, titled "The Challenge: Meeting Global Energy Demands Sustainably" available on the {{% resource_link "1e427008-5ade-4b51-8dde-6f34a8194e37" "MIT Video" %}} Web site.
+Prof. Kerry Emanuel and Prof. Ernest J. Moniz gave a lecture about a sustainable energy future for the world, titled "The Challenge: Meeting Global Energy Demands Sustainably" available on the [MIT Video](https://videolectures.net/mitworld_emanuel_moniz_cmge/) Web site.

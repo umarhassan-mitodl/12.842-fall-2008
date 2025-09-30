@@ -7,6 +7,8 @@ description: Lecture presentation on estimating the penetration of ocean surface
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/d48c55a17b70a2a4416cb02d53a68ffc_part4_lec2.pdf
 file_size: 1080246
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: Lecture presentation on atmospheric chemistry, ozone, chlorofluoroc
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/5c99809ee83e064dea196234b9d602c7_part3_1.pdf
 file_size: 688637
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
