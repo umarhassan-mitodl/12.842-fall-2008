@@ -5,8 +5,6 @@ description: Lecture presentation on the ocean carbon system, gases in ice cores
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/c3adceaa50dba097643ed9fb9982c24e_part4_lec3.pdf
 file_size: 753325
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

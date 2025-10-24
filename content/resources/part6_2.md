@@ -7,8 +7,6 @@ description: Lecture presentation on radiative transfer, shortwave absorption, s
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/05470441977ba64f90e53a2cf7b3bfb9_part6_2.pdf
 file_size: 3633543
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

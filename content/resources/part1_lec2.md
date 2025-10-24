@@ -5,8 +5,6 @@ description: Lecture presentation on the early geochemical evolution of the eart
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/bb1b1d512dd21abb043ab3d0fcb3018c_part1_lec2.pdf
 file_size: 363783
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

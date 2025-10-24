@@ -5,8 +5,6 @@ description: Lecture presentation on long-term climate cycles and the proterozoi
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/0116f509a89043151809e11806c9cb23_part1_lec5.pdf
 file_size: 414319
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

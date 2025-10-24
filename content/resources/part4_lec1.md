@@ -4,8 +4,6 @@ description: Lecture presentation on the global carbon system and atmospheric ch
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/0448706d98dad657394fea38a122000e_part4_lec1.pdf
 file_size: 2864784
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

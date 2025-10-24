@@ -5,8 +5,6 @@ description: Lecture presentation on flux of water by convection and the effects
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/fc9de3ffc68f9cb5ee7de5b331f926dd_part3_lec4.pdf
 file_size: 1431470
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

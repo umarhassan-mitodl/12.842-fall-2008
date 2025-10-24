@@ -4,8 +4,6 @@ description: Problem set on the ocean and climate.
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/2ffd7ac401da2258f412106b77a02a81_hw3.pdf
 file_size: 64366
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

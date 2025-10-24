@@ -5,8 +5,6 @@ description: Lecture presentation on lateral heat transport, atmospheric heat tr
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/3cca5ea80c63446e598c3ddd2abbce7f_part6_5.pdf
 file_size: 2399618
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

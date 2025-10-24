@@ -5,8 +5,6 @@ description: Lecture presentation on the origin of the elements, galaxies, solar
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/77f01aae40156d66ec7e09b618e8b39f_part1_lec1.pdf
 file_size: 1556445
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

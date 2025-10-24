@@ -4,8 +4,6 @@ description: Lecture presentation on ice sheet paleoclimatology.
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/02ec8ea86631c59e692808b4a9a39682_part1_lec8.pdf
 file_size: 748549
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
